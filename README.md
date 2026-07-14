@@ -4,6 +4,11 @@ Governance that predicts, not just reacts.
 
 An AI-powered predictive governance platform that helps governments anticipate risks such as floods, school dropouts, child marriages, disease outbreaks, and crop failures before they happen.
 
+## 🌐 Live Demo
+
+**Application:** https://bharat-drishti-swdd-seven.vercel.app
+
+
 ## Problem
 
 Governments often respond after disasters or social issues occur.
